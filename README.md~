@@ -1,7 +1,6 @@
 UniBS Calendar
 ========
-We have a really, REALLY awful lesson planner. 
-That's why this script is a first approach to attempt to generate a good DB by parsing the webpage.
+We have a really, REALLY awful lesson planner. That's why this script is a first approach to attempt to generate a good DB by parsing the webpage.
 
 ## Install
 
