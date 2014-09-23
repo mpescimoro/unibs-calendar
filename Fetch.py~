@@ -44,7 +44,7 @@ class DataParser(HTMLParser):
 		    print s.upper()
 		    
     def handle_endtag(self, tag):
-        if tag == 'table':
+        if tag == 'table':- 
             self.in_link = False
 
     def handle_data(self, data):
